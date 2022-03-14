@@ -1,0 +1,24 @@
+{
+  "name": "noctjs-datetime",
+  "version": "1.0.0",
+  "description": "dateTime模块，主要作用为日期时间处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "noctjs",
+    "serverless",
+    "dateTime"
+  ],
+  "author": "Sansnn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noctcloud/noctjs-datetime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noctcloud/noctjs-datetime/issues"
+  },
+  "homepage": "https://github.com/noctcloud/noctjs-datetime#readme"
+}
